@@ -1,6 +1,6 @@
 create a school curiculum Tech Tinkerer Curriculum for ICT, AI,
 Coding and Robotics
-ICSE (Class 1 to 8)
+CBSE (Class 1 to 8)
 Curriculum for the Tech Tinkerer Program in School for
 Computer, Coding, Robotics & AI Education for Class 1 to 8
 Authored By
@@ -20,13 +20,13 @@ Tech Tinkerer Program for 21st Century ICT, Coding, AI and Robotics Education
 www.thestempedia.com Page - 2 Agilo Research Private Limited
 Tech Tinkerer (Class 1 to 8)
 Mastering Coding, Artificial Intelligence, Robotics, and ICT with Fun
-Activities for ICSE Schools
-Tech Tinkerers is an innovative curriculum designed for ICSE schools, targeting students from Class 1 to 8. This program is
+Activities for CBSE Schools
+Tech Tinkerers is an innovative curriculum designed for CBSE schools, targeting students from Class 1 to 8. This program is
 meticulously crafted to immerse students in the world of technology, covering Coding, Artificial Intelligence (AI), Robotics,
 and Information and Communication Technology (ICT). Through engaging activities and hands-on lab sessions, students will
 explore the fascinating realms of technology while developing critical thinking and problem-solving skills.
 Item Detail
-Board ICSE
+Board CBSE
 Classes Class 1 to 8
 Concepts Covered Coding, Artificial Intelligence, Physical Computing, Robotics, Computer Basics, Windows 10
 Basics and Microsoft Office
@@ -343,7 +343,7 @@ www.thestempedia.com Page - 6 Agilo Research Private Limited
 FAQs on Tech Tinkerer Program
 1. What is the Tech Tinkerer Program?
 The “Tech Tinkerer” program represents a significant advancement in the educational approach to technology and
-computing in schools. Previously, the ICSE schools operated computer labs that primarily focused on basic Information and
+computing in schools. Previously, the CBSE schools operated computer labs that primarily focused on basic Information and
 Communication Technology (ICT). These labs provided fundamental knowledge and skills in using computers and
 understanding basic digital tools and software.
 With the introduction of the “Tech Tinkerer” program, there has been a substantial upgrade in the scope and capability of
@@ -446,7 +446,7 @@ Tech Tinkerer Program for 21st Century ICT, Coding, AI and Robotics Education
 www.thestempedia.com Page - 10 Agilo Research Private Limited
 Tech Tinkerers - Class 1
 Feature Description
-Number of Pages 66
+Number of Topics 66
 Number of Chapters 6
 Number of Activities 18
 Sessions Required to Complete Course Total 36 – (18 Lab Activities, 18 Classroom Learnings )
@@ -514,7 +514,7 @@ Tech Tinkerer Program for 21st Century ICT, Coding, AI and Robotics Education
 www.thestempedia.com Page - 12 Agilo Research Private Limited
 Tech Tinkerers - Class 2
 Feature Description
-Number of Pages 68
+Number of Topics 68
 Number of Chapters 6
 Number of Activities 18
 Software and Hardware Used Tux Paint, PictoBlox Jr, Quarky
@@ -579,7 +579,7 @@ Tech Tinkerer Program for 21st Century ICT, Coding, AI and Robotics Education
 www.thestempedia.com Page - 14 Agilo Research Private Limited
 Tech Tinkerers – Class 3
 Feature Description
-Number of Pages 112
+Number of Topics 112
 Number of Chapters 9
 Number of Activities 25
 Software and Hardware Used Windows 10, Notepad, WordPad, MS Paint, Tux Paint, MS Word, MS Excel,
@@ -700,7 +700,7 @@ Tech Tinkerer Program for 21st Century ICT, Coding, AI and Robotics Education
 www.thestempedia.com Page - 17 Agilo Research Private Limited
 Tech Tinkerers – Class 4
 Feature Description
-Number of Pages 122
+Number of Topics 122
 Number of Chapters 9
 Number of Activities 25
 Software and Hardware Used Windows 10, MS Paint, Tux Paint, MS Word, MS Excel, PictoBlox Block
@@ -827,7 +827,7 @@ Tech Tinkerer Program for 21st Century ICT, Coding, AI and Robotics Education
 www.thestempedia.com Page - 20 Agilo Research Private Limited
 Tech Tinkerers – Class 5
 Feature Description
-Number of Pages 126
+Number of Topics 126
 Number of Chapters 7
 Number of Activities 25
 Software and Hardware Used Windows 10, Calculator, MS Paint, WordPad, MS Word, MS PowerPoint,
@@ -951,7 +951,7 @@ Tech Tinkerer Program for 21st Century ICT, Coding, AI and Robotics Education
 www.thestempedia.com Page - 23 Agilo Research Private Limited
 Tech Tinkerers – Class 6
 Feature Description
-Number of Pages 154
+Number of Topics 154
 Number of Chapters 10
 Number of Activities 25
 Software and Hardware Used Windows 10, Windows Media Player, MS Word, MS PowerPoint, PictoBlox
@@ -1101,7 +1101,7 @@ Tech Tinkerer Program for 21st Century ICT, Coding, AI and Robotics Education
 www.thestempedia.com Page - 27 Agilo Research Private Limited
 Tech Tinkerers – Class 7
 Feature Description
-Number of Pages 164
+Number of Topics 164
 Number of Chapters 11
 Number of Activities 25
 Software and Hardware Used Windows 10, PicsArt App, MS Excel, PictoBlox Block Coding, PictoBlox AI,
@@ -1269,7 +1269,7 @@ Tech Tinkerer Program for 21st Century ICT, Coding, AI and Robotics Education
 www.thestempedia.com Page - 31 Agilo Research Private Limited
 Tech Tinkerers – Class 8
 Feature Description
-Number of Pages 160
+Number of Topics 160
 Number of Chapters 8
 Number of Activities 25
 Software and Hardware Used Windows 10, Canva App, MS Excel, PictoBlox Block Coding, PictoBlox Python
